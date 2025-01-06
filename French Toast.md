@@ -21,13 +21,12 @@ Ingredients:
         - 1/2 cup cold, unsalted butter
 
 Instructions:
-1. Cut bread into 1-inch cubes and scatter evenly in a greased 9-x-13-inch baking dish.
+1. Cut bread into 1-inch cubes and scatter evenly in a greased 9x13-inch baking dish.
 2. In a medium bowl, mix eggs, milk, heavy cream, vanilla, and sugar together, then pour evenly
 over bread.
-3. Cover the dish with plastic wrap and refrigerate for at least 4 hours, or overnight.
+3. Cover the dish and refrigerate for at least 4 hours, or overnight.
 4. To make the topping, mix flour, brown sugar, cinnamon, and salt in a medium bowl. Cut butter
-into this mixture until crumbly. Place the topping in a small resealable plastic bag and
-refrigerate overnight as well.
+into this mixture until crumbly.
 5. When ready to bake, preheat the oven to 350 F.
 6. Uncover the baking dish and sprinkle the topping evenly over the bread.
 7. Bake uncovered for 45-60 minutes.
