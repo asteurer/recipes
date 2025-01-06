@@ -23,10 +23,10 @@ Ingredients:
 - [[Refried Beans]] _(optional)_
 
 Instructions:
-1.  Saute pork tenderloin until brown 3 - 4 min each side
-2. Add chopped onions and jalapenos, green chilies, cilantro, garlic, cumin, chicken stock, and salt and simmer for 30 min
-3. Remove pork and shred
-4. Allow remaining sauce to cool, then blend
-5. Place blended mixture back in stockpot and add cornstarch. Simmer until thickened
-6. Mix shredded pork and sauce
-7. Serve with optional ingredients
+1. Saute pork tenderloin until brown 3 - 4 min each side.
+2. Add chopped onions and jalapenos, green chilies, cilantro, garlic, cumin, chicken stock, and salt and simmer for 30 min.
+3. Remove pork and shred.
+4. Allow remaining sauce to cool, then blend.
+5. Place blended mixture back in stockpot and add cornstarch. Simmer until thickened.
+6. Mix shredded pork and sauce.
+7. Serve with optional ingredients.

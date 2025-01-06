@@ -3,10 +3,10 @@
 #Season: summer, fall, winter, spring, any
 
 Equipment:
-- 
+-
 
 Ingredients:
-- 
+-
 
 Instructions:
-- 
+-

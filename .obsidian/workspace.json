@@ -11,10 +11,14 @@
             "id": "ac27f98a79b2db8c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "French Toast.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "French Toast"
             }
           }
         ]
@@ -49,7 +53,7 @@
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": false,
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "French Toast.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +103,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for French Toast"
             }
           },
           {
@@ -155,14 +160,17 @@
   },
   "active": "ac27f98a79b2db8c",
   "lastOpenFiles": [
+    "Pasta.md",
+    "French Toast.md",
+    "templates/recipe_template.md",
+    "pasta.md",
     "Za'atar Chicken and Farro Salad.md",
-    "Broccoli Lo Mein.md",
-    "Tex Mex Chicken and Rice.md",
     "Rosebowl Soup.md",
     "Refried Beans.md",
     "Pork Verde Tacos.md",
+    "Broccoli Lo Mein.md",
     "Pollo Guisado.md",
-    "templates/recipe_template.md",
+    "Tex Mex Chicken and Rice.md",
     "templates",
     "2024-11-08.md",
     "Untitled.canvas",

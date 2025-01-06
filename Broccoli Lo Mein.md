@@ -6,7 +6,7 @@ Equipment:
 - n/a
 
 Ingredients:
-- 1 lb thin spaghetti or jasmine rice
+- thin spaghetti or jasmine rice
 - 2 tsp dark sesame oil
 - 1/3 chicken broth
 - 1/3 cup soy sauce
@@ -19,9 +19,9 @@ Ingredients:
 - ginger to taste
 
 Instructions:
-- Cook spaghetti, toss with sesame oil
-- In a small bowl whisk together chicken broth, soy sauce, brown sugar, corn starch, ginger
-- Saute chopped red peppers and broccoli
-- Add garlic and sirloin and cook for 2 min
-- Add sauce mixture and simmer for 5 min
-- Serve over hot noodles/rice
+1. Cook spaghetti or rice, toss with sesame oil.
+2. In a small bowl whisk together chicken broth, soy sauce, brown sugar, corn starch, ginger.
+3. Saute chopped red peppers and broccoli.
+4. Add garlic and sirloin and cook for 2 min.
+5. Add sauce mixture and simmer for 5 min.
+6. Serve over hot spaghetti/rice.
